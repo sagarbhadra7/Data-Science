@@ -20,7 +20,7 @@ print(speed)
 # In[3]:
 
 
-print(speed)
+#print(speed)
 
 
 # In[12]:
