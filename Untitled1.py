@@ -24,8 +24,8 @@ print(speed)
 
 
 import numpy as np
-zero_v = np.zeros((3,3))
-zero_v
+#zero_v = np.zeros((3,3))
+#zero_v
 
 
 # In[15]:
