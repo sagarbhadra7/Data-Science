@@ -30,7 +30,7 @@ zero_v
 # In[15]:
 
 
-threeD= np.arange(27).reshape((3,3,3))
+###threeD= np.arange(27).reshape((3,3,3))
 
 
 # In[16]:
