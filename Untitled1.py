@@ -5,11 +5,8 @@
 
 
 #import numpy as np
-<<<<<<< HEAD
 distance = [10,15,20,25,30]
-=======
 #distance = [10,15,20,25,30]
->>>>>>> slave
 time=[0.3,0.5,0.7,0.9,0.99]
 #np_distance=np.array(distance)
 #np_time=np.array(time)
